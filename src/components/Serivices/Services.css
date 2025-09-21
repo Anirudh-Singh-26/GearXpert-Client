@@ -1,0 +1,22 @@
+.services-header {
+  width: 100%;
+  box-shadow: 0 0 300px 100px black inset;
+  /* background-size: cover; */
+  background-position: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  /* transition: 0.2s ease-in-out; */
+}
+
+.card:hover {
+  scale: 1.04;
+}
+
+hr {
+  border-color: white;
+}
