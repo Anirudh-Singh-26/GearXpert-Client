@@ -3,7 +3,7 @@ import HeroSection from "../../components/herosection/HeroSection";
 import AutomobileInfo from "../../components/seconderySection/AutomobileInfo";
 import Navigation from "../../components/Navigation/Navigation";
 import ImageSlider from "../../components/slider/ImageSlider";
-import Testimonial from "../../components/testimonials/Testimonial.Jsx";
+import Testimonial from "../../components/testimonials/Testimonial.jsx";
 import ChooseUs from "../../components/whyChoose/ChooseUs";
 import Marque from "../../components/MarqueLine/Marque";
 import Services from "../../components/Serivices/Services";
